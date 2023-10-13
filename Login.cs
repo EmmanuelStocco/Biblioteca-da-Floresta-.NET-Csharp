@@ -31,5 +31,43 @@ namespace Livraria
         {
             Application.Exit();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btnSenha_MouseDown(object sender, MouseEventArgs e)
+        {
+            txtSenha.UseSystemPasswordChar = false;
+        }
+
+        private void txtSenha_MouseUp(object sender, MouseEventArgs e)
+        { 
+        }
+
+        private void txtSenha_MouseDown(object sender, MouseEventArgs e)
+        { 
+        }
+
+        private void txtSenha_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSenha_MouseUp(object sender, MouseEventArgs e)
+        {
+            txtSenha.UseSystemPasswordChar = true;
+        }
     }
 }

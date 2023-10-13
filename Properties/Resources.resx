@@ -118,7 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="1564534_customer_man_user_account_profile_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1564534_customer_man_user_account_profile_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="4026428_device_electronic_folder_machine_technology_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4026428_device_electronic_folder_machine_technology_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9023606_lock_key_open_fill_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9023606_lock_key_open_fill_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

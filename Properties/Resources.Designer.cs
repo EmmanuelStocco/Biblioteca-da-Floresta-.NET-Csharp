@@ -63,9 +63,29 @@ namespace Livraria.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1564534_customer_man_user_account_profile_icon {
+            get {
+                object obj = ResourceManager.GetObject("1564534_customer_man_user_account_profile_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _4026428_device_electronic_folder_machine_technology_icon {
             get {
                 object obj = ResourceManager.GetObject("4026428_device_electronic_folder_machine_technology_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _9023606_lock_key_open_fill_icon {
+            get {
+                object obj = ResourceManager.GetObject("9023606_lock_key_open_fill_icon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

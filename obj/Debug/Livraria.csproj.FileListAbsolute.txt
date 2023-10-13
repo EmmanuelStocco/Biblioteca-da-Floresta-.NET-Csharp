@@ -1,0 +1,11 @@
+C:\Users\emman\Desktop\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\emman\Desktop\Livraria\bin\Debug\Livraria.exe
+C:\Users\emman\Desktop\Livraria\bin\Debug\Livraria.pdb
+C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.csproj.AssemblyReference.cache
+C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.csproj.SuggestedBindingRedirects.cache
+C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.Login.resources
+C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.exe
+C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.pdb

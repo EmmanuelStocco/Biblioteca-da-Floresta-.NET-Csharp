@@ -1,0 +1,26 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de projeto
+*.user
+*.suo
+*.sln.docstates
+
+# Cache de análise do ReSharper
+_ReSharper.*
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Logs e arquivos temporários
+*.log
+*.bak
+*.tmp
+
+# Arquivos de publicação e resultados de build
+publish/
+PublishProfiles/
+node_modules/
+bower_components/

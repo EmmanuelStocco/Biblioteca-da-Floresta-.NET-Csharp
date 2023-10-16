@@ -9,3 +9,4 @@ C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
 C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
 C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.exe
 C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.pdb
+C:\Users\emman\Desktop\Livraria\obj\Debug\Livraria.frmMenu.resources
